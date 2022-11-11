@@ -1,1 +1,4 @@
-# I'm just a god. 
+# I'm just a god.
+
+Занимаюсь frond-end разработкой. 
+
