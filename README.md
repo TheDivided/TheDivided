@@ -21,5 +21,5 @@
 </a>
 
 ## Статистика
-![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=wwyynnee&show_icons=true&hide=prs&theme=dracula)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix,procfile,hack&layout=compact)
+![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=TheDivided&show_icons=true&hide=prs&theme=dracula)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&hide=nix,procfile,hack&layout=compact)
