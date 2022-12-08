@@ -21,5 +21,5 @@
 </a>
 
 ## Статистика
-![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=TheDivided&show_icons=true&hide=prs&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDivided)](https://github.com/TheDivided/github-readme-stats)
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&hide=nix,procfile,hack&layout=compact)
