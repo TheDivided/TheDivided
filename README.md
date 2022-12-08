@@ -19,3 +19,6 @@
 <a href="https://java.com">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 </a>
+## Статистика
+![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=TheDivided&show_icons=true&hide=prs&theme=dracula)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&hide=nix,procfile,hack&layout=compact)
