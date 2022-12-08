@@ -21,5 +21,5 @@
 </a>
 
 ## Статистика
-[![Частоиспользуемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&layout=compact)](https://github.com/TheDivided/github-readme-stats)
-![TheDIvided's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDivided&show_icons=true&theme=radical)
+![Github статистика](https://github-readme-stats.vercel.app/api?username=TheDivided&show_icons=true&theme=radical)
+[![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&layout=compact)](https://github.com/TheDivided/github-readme-stats)
