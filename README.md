@@ -21,6 +21,6 @@
 </a>
 
 ## Статистика
-[![My Skills](https://skillicons.dev/icons?i=github,idea,java,html,discord,cssl&perline=3)](https://divided.shuoi.top/)
+[![My Skills](https://skillicons.dev/icons?i=github,idea,vscjs,html,css,java,figma,)](https://divided.shuoki.top)
 
 [![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDivided&layout=compact)](https://github.com/TheDivided/github-readme-stats)
